@@ -2,7 +2,7 @@
 title: Installation
 weight: -9
 ---
-## Installation steps for emedge
+## Download and install
   - Linux
     - one liner installation
 
@@ -11,6 +11,8 @@ weight: -9
   - Windows
     - Download and unzip <a href="https://download.{{% domain %}}/emedge/emedge-latest.zip" target="_blank">latest emedge software package</a>
     - cd into **emedge** folder and run **emedge.exe setup**
+
+  - We are missing MAC OS installation package here
 
 ## Installation as system service or Windows service
   - Linux/Windows/OSX:
